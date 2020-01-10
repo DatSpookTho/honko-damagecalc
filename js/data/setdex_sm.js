@@ -100,7 +100,7 @@ var SETDEX_SM = {
         },
         "Mixed Wall": {
             "level": 100,
-            "evs": {"sd": 4, "df": 252, "hp": 252},
+            "evs": {"df": 4, "sd": 252, "hp": 252},
             "nature": "Careful",
             "ability": "Poison Heal",
             "item": "Toxic Orb",
@@ -320,7 +320,7 @@ var SETDEX_SM = {
             "nature": "Adamant",
             "ability": "Tinted Lens",
             "item": "Choice Scarf",
-            "moves": ["Double Edge", "Iron Head", "U-turn", "Facade"]
+            "moves": ["Double-Edge", "Iron Head", "U-turn", "Facade"]
         },
         "Swords Dance": {
             "level": 100,
@@ -328,7 +328,7 @@ var SETDEX_SM = {
             "nature": "Adamant",
             "ability": "Tinted Lens",
             "item": "Choice Scarf",
-            "moves": ["Double Edge", "Iron Head", "Bullet Punch", "Swords Dance"]
+            "moves": ["Double-Edge", "Iron Head", "Bullet Punch", "Swords Dance"]
         },
     },
     "Umbreon": {
