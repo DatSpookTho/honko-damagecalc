@@ -322,7 +322,7 @@ var SETDEX_SM = {
             "item": "Choice Scarf",
             "moves": ["Double Edge", "Iron Head", "U-turn", "Facade"]
         },
-        "Swords Dance" {
+        "Swords Dance": {
             "level": 100,
             "evs": {"at": 252, "sp": 252, "df": 4},
             "nature": "Adamant",
